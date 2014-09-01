@@ -1,6 +1,9 @@
-# Sketch Sort Text Layers Plugin
+### Sort Layers
 
-This plugin lets you sort text layers by their string value. You can also sort layer groups that contain multiple text layers as long as each group has the same order of layers. [Watch the demo](https://vimeo.com/103850478 "Demo")
+Sorts the selected layers or artboards. Note: This plugin will also reorder the layers in the layer list to match the visual order. For best results, group your layers before sorting.
 
+**Options:** `Text (A->Z)`, `Text (Z->A)`, `Layer Name (A->Z)`, `Layer Name (Z->A)`, `Top`, `Left`, `Random`
 
-![Screenshot](https://dl.dropboxusercontent.com/u/974773/_keepalive/Sort.png)
+**Shortcut:** `ctrl` + `⌘` + `⌥` + `S`
+
+![Selection Animation](https://dl.dropboxusercontent.com/u/974773/_keepalive/Style%20Inventory/Sorting.gif)
