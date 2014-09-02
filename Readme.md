@@ -8,8 +8,8 @@ There are also plugins to reverse the order of the layers in the layer list and 
 
 **Shortcut:** `ctrl` + `⌘` + `⌥` + `S`
 
-## Sorting Layers by text, visually
+#### Sorting Layers by text, visually
 ![Selection Animation](https://dl.dropboxusercontent.com/u/974773/_keepalive/Style%20Inventory/Sorting.gif)
 
-## Sorting Layers in the layer list by position
+#### Sorting Layers in the layer list by position
 ![Selection Animation](https://dl.dropboxusercontent.com/u/974773/_keepalive/Style%20Inventory/Sorting%20Layers%202.gif)
